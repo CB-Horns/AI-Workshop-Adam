@@ -5,9 +5,13 @@ commercialization leader in advanced materials, AI, OLEDs, and quantum computing
 
 ## Live URL
 
-Pending — deployed automatically on Vercel when the GitHub integration has a
-token. Every push to `main` triggers a Vercel build; see the deployment status
-in the GitHub Actions/deployments tab for the repo.
+**https://cb-horns.github.io/AI-Workshop-Adam/** — published via GitHub Pages
+from the `gh-pages` branch (static `next export` output).
+
+> Vercel is connected to this repo and fires on every push, but the Vercel
+> project has **Deployment Protection** enabled (SSO on deployment URLs), so
+> Vercel deployments return "protected" pages. GitHub Pages is the public URL
+> instead.
 
 ## Tech stack
 
