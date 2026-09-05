@@ -5,10 +5,9 @@ commercialization leader in advanced materials, AI, OLEDs, and quantum computing
 
 ## Live URL
 
-Coming soon — deployed automatically on Vercel.
-
-Vercel is connected to the GitHub repo so every push triggers a build. See the
-"Deliberately skipped" section below for the deployment status on day one.
+Pending — deployed automatically on Vercel when the GitHub integration has a
+token. Every push to `main` triggers a Vercel build; see the deployment status
+in the GitHub Actions/deployments tab for the repo.
 
 ## Tech stack
 
