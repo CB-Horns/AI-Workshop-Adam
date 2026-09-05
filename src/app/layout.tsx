@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Workshop Adam",
+  title: "Christopher T. Brown, Ph.D. — Technical Executive & Commercialization Leader",
   description:
-    "AI Workshop Adam — hands-on workshops, projects, and community for building with AI.",
+    "Technical executive and commercialization leader with 25+ years advancing advanced materials, AI, OLEDs, and quantum computing — from lab breakthroughs to commercial products and early-stage growth.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
